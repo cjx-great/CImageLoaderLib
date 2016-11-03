@@ -1,0 +1,5 @@
+
+使用下列方法时务必传入 parent 参数
+
+convertView = LayoutInflater.from(context).inflate(R.layout.list_item,parent,false);
+
