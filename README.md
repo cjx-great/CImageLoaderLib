@@ -1,5 +1,9 @@
 # CImageLoaderLib
 
+感谢 《Android源码设计模式解析与实战》一书与[《教你写Android ImageLoader框架》系列博文](http://blog.csdn.net/column/details/android-imageloader.html)
+
+工程代码源于此
+
 基本用法：
 ```java  
   
